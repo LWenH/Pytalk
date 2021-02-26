@@ -3,5 +3,4 @@
 
 ## 运行方法
  先source util文件夹里的user.sql到mysql数据库。
- 打开server运行kserver.py
- 再运行ui文件夹里的login.ui即可跑起来
+ 打开server运行kserver.py，再运行ui文件夹里的login.ui即可跑起来
