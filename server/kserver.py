@@ -28,6 +28,7 @@ events = [
 container = ''
 
 """
+            消息包结构
 from | type | reserve | message body
 
 from 0 means server send
